@@ -1,0 +1,15 @@
+H:\Training\mohammed_yonose_aspnet_b14\src\Assignment1\CF_71_A\bin\Debug\net10.0\CF_71_A.exe
+H:\Training\mohammed_yonose_aspnet_b14\src\Assignment1\CF_71_A\bin\Debug\net10.0\CF_71_A.deps.json
+H:\Training\mohammed_yonose_aspnet_b14\src\Assignment1\CF_71_A\bin\Debug\net10.0\CF_71_A.runtimeconfig.json
+H:\Training\mohammed_yonose_aspnet_b14\src\Assignment1\CF_71_A\bin\Debug\net10.0\CF_71_A.dll
+H:\Training\mohammed_yonose_aspnet_b14\src\Assignment1\CF_71_A\bin\Debug\net10.0\CF_71_A.pdb
+H:\Training\mohammed_yonose_aspnet_b14\src\Assignment1\CF_71_A\obj\Debug\net10.0\CF_71_A.GeneratedMSBuildEditorConfig.editorconfig
+H:\Training\mohammed_yonose_aspnet_b14\src\Assignment1\CF_71_A\obj\Debug\net10.0\CF_71_A.AssemblyInfoInputs.cache
+H:\Training\mohammed_yonose_aspnet_b14\src\Assignment1\CF_71_A\obj\Debug\net10.0\CF_71_A.AssemblyInfo.cs
+H:\Training\mohammed_yonose_aspnet_b14\src\Assignment1\CF_71_A\obj\Debug\net10.0\CF_71_A.csproj.CoreCompileInputs.cache
+H:\Training\mohammed_yonose_aspnet_b14\src\Assignment1\CF_71_A\obj\Debug\net10.0\CF_71_A.sourcelink.json
+H:\Training\mohammed_yonose_aspnet_b14\src\Assignment1\CF_71_A\obj\Debug\net10.0\CF_71_A.dll
+H:\Training\mohammed_yonose_aspnet_b14\src\Assignment1\CF_71_A\obj\Debug\net10.0\refint\CF_71_A.dll
+H:\Training\mohammed_yonose_aspnet_b14\src\Assignment1\CF_71_A\obj\Debug\net10.0\CF_71_A.pdb
+H:\Training\mohammed_yonose_aspnet_b14\src\Assignment1\CF_71_A\obj\Debug\net10.0\CF_71_A.genruntimeconfig.cache
+H:\Training\mohammed_yonose_aspnet_b14\src\Assignment1\CF_71_A\obj\Debug\net10.0\ref\CF_71_A.dll
