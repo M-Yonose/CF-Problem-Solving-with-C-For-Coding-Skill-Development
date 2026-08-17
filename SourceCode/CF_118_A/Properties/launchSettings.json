@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "CF_118_A": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
